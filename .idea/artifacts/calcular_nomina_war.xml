@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="calcular_nomina:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>calcular_nomina</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="calcular_nomina-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="calcular_nomina:war exploded" />
+    </root>
+  </artifact>
+</component>
